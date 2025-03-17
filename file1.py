@@ -1,1 +1,1 @@
-print("Buy World")
+print("Buy Friend")
