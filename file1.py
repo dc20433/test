@@ -1,1 +1,1 @@
-print("Buy Friend and others")
+print("Hello Friend and others")
